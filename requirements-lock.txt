@@ -1,0 +1,8 @@
+# Python 3.8.20; package versions used for the recorded benchmark and analyses.
+# Historical LaTeX manuscript builds use TeX Live (latexmk, pdflatex, bibtex).
+numpy==1.24.4
+scipy==1.10.1
+pandas==2.0.3
+scikit-learn==1.3.2
+joblib==1.4.2
+matplotlib==3.7.5
